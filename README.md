@@ -1,6 +1,6 @@
 # **AI Conversational Chatbot with LangChain & OpenAI**
 
-
+ 
 
 A **Generative AI mini-project** demonstrating how to build a conversational chatbot using **LangChain**, **OpenAI GPT models**, and **LangSmith** for real-time monitoring and performance tracking.  
 The chatbot is deployed with **Streamlit**, providing an intuitive interface where users can interact with GPT-powered models, tune parameters, and visualize conversations.
